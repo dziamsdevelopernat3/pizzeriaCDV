@@ -44,3 +44,63 @@
 |8. | Dodatkowe warzywa (pieczarki, cebula, kukurydza, rukola)   |  5 zł |
 |9. | Papryczki jalapeño / kapary / oliwki                       |  6 zł |
 |10.| Opakowanie na wynos (karton)                               |  2 zł |
+
+## Makarony
+
+<img src = "pizza github/makaron.jpg" width = 300>
+
+
+|Lp.| Danie:                                                                     | Cena  |
+|---|----------------------------------------------------------------------------|-------|
+|1. | Spaghetti Bolognese (klasyczny sos pomidorowo-mięsny z wołowiną, parmezan) | 32 zł |
+|2. | Spaghetti Carbonara (guanciale, żółtko, ser pecorino romano, czarny pieprz)| 36 zł |
+|3. | Penne all'Arrabbiata (sos pomidorowy, czosnek, papryczka chili, pietruszka)| 29 zł |
+|4. | Tagliatelle al Tartufo (sos śmietankowy, pasta truflowa, grzyby, parmezan) | 42 zł |
+|5. | Lasagne al Forno (makaron zapiekany z sosem mięsnym, beszamelem i serem)   | 38 zł |
+|6. | Gnocchi Gorgonzola (włoskie kluseczki w kremowym sosie z gorgonzolą i gruszką)| 35 zł |
+|7. | Linguine ai Frutti di Mare (owoce morza, pomidorki koktajlowe, białe wino) | 48 zł |
+
+## Dania główne
+
+<img src = "pizza github/dania glowne.jpg" width = 300>
+
+
+|Lp.| Danie:                                                                                  | Cena  |
+|---|-----------------------------------------------------------------------------------------|-------|
+|1. | Saltimbocca alla Romana (sznycle cielęce z prosciutto i świeżą szałwią, sos maślany)    | 55 zł |
+|2. | Ossobuco alla Milanese (wolno duszona gicz cielęca ze szpikiem, gremolata, szafran)     | 68 zł |
+|3. | Polpo con 'Nduja (pieczona macka ośmiornicy, pikantna pasta z kiełbasy nduja, ziemniaki)| 75 zł |
+|4. | Melanzane alla Parmigiana (włoska zapiekanka z plastrów bakłażana, pomidorów i sera)    | 42 zł |
+|5. | Petto d'Anatra al Balsamico (pierś z kaczki, gęsty sos z octu balsamicznego i fig)      | 62 zł |
+|6. | Salmone in Crosta di Pistacchi (filet z łososia w pistacjowej kruszonce, sos cytrynowy) | 58 zł |
+|7. | Filetto al Marsala (polędwiczki wieprzowe duszone w słodkim włoskim winie Marsala)      | 49 zł |
+
+## Desery
+
+<img src = "pizza github/desery.jpg" width = 300>
+
+
+|Lp.| Deser:                                                                         | Cena  |
+|---|--------------------------------------------------------------------------------|-------|
+|1. | Tiramisu (klasyczny włoski deser z mascarpone, espresso i likierem amaretto)   | 24 zł |
+|2. | Panna Cotta (delikatny śmietankowy deser z musem ze świeżych malin)            | 21 zł |
+|3. | Cannoli Siciliani (chrupiące rurki z kremem z ricotty, pistacjami i czekoladą) | 26 zł |
+|4. | Profiteroles (włoskie ptysie z kremem waniliowym, oblane ciemną czekoladą)     | 25 zł |
+|5. | Affogato al Caffè (gałka rzemieślniczych lodów waniliowych zalana espresso)    | 18 zł |
+|6. | Torta della Nonna (kruche ciasto z kremem cytrynowym i orzeszkami piniowymi)   | 22 zł |
+|7. | Semifreddo (mrożony deser migdałowy z chrupiącymi kawałkami amaretti)          | 24 zł |
+
+## Napoje
+
+<img src = "pizza github/aperolek.jpg" width = 300>
+
+|Lp.| Napój:                                                                     | Cena  |
+|---|----------------------------------------------------------------------------|-------|
+|1. | Woda mineralna (Acqua Panna / San Pellegrino) 0.5l                         | 12 zł |
+|2. | Napoje gazowane (Coca-Cola, Fanta, Sprite, Kinley) 0.25l                   |  9 zł |
+|3. | Włoska lemoniada (domowa, z cytryn i sycylijskich pomarańczy) 0.4l         | 16 zł |
+|4. | Espresso (klasyczne włoskie, krótkie i intensywne)                         | 10 zł |
+|5. | Cappuccino (espresso z idealnie spienionym mlekiem)                        | 14 zł |
+|6. | Aperol Spritz (Prosecco, Aperol, woda gazowana, plaster pomarańczy)        | 28 zł |
+|7. | Wino domowe (Vino della casa - wytrawne białe / czerwone) karafka 0.5l     | 35 zł |
+|8. | Włoskie piwo (Peroni Nastro Azzurro / Birra Moretti) 0.33l                 | 15 zł |
