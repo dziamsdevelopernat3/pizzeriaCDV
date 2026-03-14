@@ -16,6 +16,7 @@
 |8. |Diavola (sos pomidorowy, mozzarella, pikantne salami, papryczka chili)| |28 zł | 32 zł | 37 zł |
 |9. |Napoli (sos pomidorowy, mozzarella, anchois, kapary, oregano)| |27 zł | 31 zł | 36 zł |
 
+
 ## Pizze special
 
 <img src = "pizza github/pizza na stole.jpg" width = 300>
@@ -29,6 +30,21 @@
 |5. |Porcini (sos śmietanowy, mozzarella, borowiki, czosnek, świeży tymianek)  |             |39 zł | 60 zł |
 |6. |Carpaccio (sos pomidorowy, mozzarella, polędwica wołowa, rukola, kapary)  |             |45 zł | 68 zł |
 |7. |Salmone (sos śmietanowy, wędzony łosoś, serek mascarpone, koperek, cytryna)|            |40 zł | 62 zł |
+
+## Pizze wegetariańskie
+
+<img src = "pizza github/wege pizza.jpg" width = 300>
+
+|Lp.|Pizza:                                                                        |rozmiar: | 30 cm | 50 cm | 60 cm |
+|---|------------------------------------------------------------------------------|---------|-------|-------|-------|
+|1. |Margherita (sos pomidorowy, mozzarella, świeża bazylia, oliwa z oliwek)       |         | 20 zł | 24 zł | 29 zł |
+|2. |Marinara (sos pomidorowy, czosnek, oregano, oliwa z oliwek)                   |         | 18 zł | 22 zł | 27 zł |
+|3. |Quattro Formaggi (mozzarella, gorgonzola, parmezan, ser provolone)            |         | 25 zł | 29 zł | 34 zł |
+|4. |Funghi (sos pomidorowy, mozzarella, pieczarki)                                |         | 21 zł | 25 zł | 30 zł |
+|5. |Ortolana (sos pomidorowy, mozzarella, grillowana cukinia, bakłażan, papryka)  |         | 25 zł | 29 zł | 34 zł |
+|6. |Spinaci (sos śmietanowy, mozzarella, szpinak, czosnek, ser feta)              |         | 24 zł | 28 zł | 33 zł |
+|7. |Burrata (sos pomidorowy, świeża burrata, pomidorki koktajlowe, zielone pesto) |         | 28 zł | 32 zł | 37 zł |
+
 
 ## Sosy i dodatki
 
@@ -74,6 +90,21 @@
 |5. | Petto d'Anatra al Balsamico (pierś z kaczki, gęsty sos z octu balsamicznego i fig)      | 62 zł |
 |6. | Salmone in Crosta di Pistacchi (filet z łososia w pistacjowej kruszonce, sos cytrynowy) | 58 zł |
 |7. | Filetto al Marsala (polędwiczki wieprzowe duszone w słodkim włoskim winie Marsala)      | 49 zł |
+
+## Dania wegetariańskie
+
+<img src = "pizza github/vege pasta.jpg" width = 300>
+
+
+|Lp.| Danie:                                                                                       | Cena  |
+|---|----------------------------------------------------------------------------------------------|-------|
+|1. | Penne all'Arrabbiata (sos pomidorowy, czosnek, papryczka chili, pietruszka)                  | 29 zł |
+|2. | Tagliatelle al Tartufo (sos śmietankowy, pasta truflowa, grzyby, parmezan)                   | 42 zł |
+|3. | Gnocchi Gorgonzola (włoskie kluseczki w kremowym sosie z gorgonzolą i gruszką)               | 35 zł |
+|4. | Melanzane alla Parmigiana (włoska zapiekanka z plastrów bakłażana, pomidorów i sera)         | 42 zł |
+|5. | Ravioli Ricotta e Spinaci (domowe pierożki z ricottą i szpinakiem, sos szałwiowo-maślany)    | 36 zł |
+|6. | Risotto ai Funghi Porcini (kremowe risotto z prawdziwkami, białym winem i natką pietruszki)  | 38 zł |
+|7. | Crespelle alla Fiorentina (włoskie naleśniki zapiekane z ricottą, szpinakiem i beszamelem)   | 34 zł |
 
 ## Desery
 
